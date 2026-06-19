@@ -50,3 +50,7 @@ SEO, WordPress ve Google Ads konularında deneyimliyim.
 ## 📫 İletişim
 
 - 🌍 [sayfatasarim.com](https://sayfatasarim.com)
+
+
+
+![Ziyaretçi](https://komarev.com/ghpvc/?username=necatgumus&color=blue&style=flat)
