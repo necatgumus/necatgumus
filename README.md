@@ -1,16 +1,34 @@
-## Hi there 👋
+# Merhaba, ben Necat Gümüş 👋
 
-<!--
-**necatgumus/necatgumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sakarya merkezli dijital girişimci ve web ajansı sahibiyim.  
+SEO, WordPress ve Google Ads konularında deneyimliyim.  
+Şu an AI Agent geliştirici olmak için öğrenme yolculuğundayım.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Aktif Projeler
+
+- 🏊 [havuzfirmalari.com.tr](https://havuzfirmalari.com.tr) — Havuz firmaları sektörel dizin
+- 💡 [aplik.net](https://aplik.net) — LED aplik e-ticaret
+- 🌐 [sayfatasarim.com](https://sayfatasarim.com) — Web tasarım & dijital ajans
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-FF6B35?style=flat)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+
+---
+
+## 📚 Şu An Öğreniyorum
+
+- Python → Anthropic API → LangChain → AI Agent geliştirme
+
+---
+
+## 📫 İletişim
+
+- 🌍 [sayfatasarim.com](https://sayfatasarim.com)
