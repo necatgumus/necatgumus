@@ -10,7 +10,6 @@ SEO, WordPress ve Google Ads konularında deneyimliyim.
 
 - 🏊 [havuzfirmalari.com.tr](https://havuzfirmalari.com.tr) — Havuz firmaları sektörel dizin
 - 🛗 [asansorfirmalari.com](https://asansorfirmalari.com) — Asansör firmaları sektörel dizin
-- 💡 [aplik.net](https://aplik.net) — LED aplik e-ticaret
 - 🌐 [sayfatasarim.com](https://sayfatasarim.com) — Web tasarım & dijital ajans
 
 ---
